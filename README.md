@@ -4,7 +4,7 @@ This is a small browser based game where you collect crops and try to avoid obst
 
 ## How to run the game?
 1. Clone the repository
-2. Open index.html in a browser or run 'python -m http.server 8000' followed by 'http://localhost:8000' in a browser.
+2. Open run 'python -m http.server 8000' in the console followed by 'http://localhost:8000' in a browser. Or, if you're running just index.html with main.js, just double click on index.html and open it in a browser.
 3. Click 'Start' to begin the game.
 4. Use the arrow keys to move the farmer.
 5. Collect crops to reach the goal within the alloted time.
